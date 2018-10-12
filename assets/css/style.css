@@ -1,0 +1,12 @@
+header {
+    font-size: 24px;
+    color: blue
+}
+
+.instructions {
+    color: red;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
