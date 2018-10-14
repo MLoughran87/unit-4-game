@@ -3,6 +3,10 @@ header {
     color: blue
 }
 
+body {
+    background: oldlace;
+    
+}
 .instructions {
     color: red;
     width: 300px;
@@ -11,6 +15,30 @@ header {
     margin: 25px;
 }
 
+#random-number {
+    background: orange;
+    font-size: 48px;
+    color: black;
+}
+
+#wins-loss {
+    background: aquamarine;
+    font-size: 24px;
+    color: black
+
+}
+
+#scorebox {
+    background: orange;
+    font-size: 24px;
+    color: black;
+}
+
+#total-score-div {
+    background: teal;
+    font-size: 48px;
+    color: black;
+}
 /* Crystals css */
 
 .crystals {
